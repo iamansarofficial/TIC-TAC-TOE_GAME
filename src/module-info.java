@@ -6,4 +6,5 @@
  *
  */
 module tictactoegame {
+	requires java.desktop;
 }
